@@ -21,16 +21,21 @@ function (currentColor){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|    Input    |    Output    |
+| ----------- | ------------ |
+|   yellow    |    red       | 
+|   green     |    yellow    | 
+|   orange    |    ERROR     | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>
+      This program has essentially created a looping color sequence of green then 
+      yellow then red and will take any of those strings as the value passed to it 
+      and then return the next color in the sequence. It does not however have a 
+      get out for if the color variable passed to it is not one of the three.
+    </td>
   </tr>
 </table>
 
