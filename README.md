@@ -21,11 +21,11 @@ function (currentColor){
 }
 ```
 
-|    Input    |    Output    |
-| ----------- | ------------ |
-|   yellow    |    red       | 
-|   green     |    yellow    | 
-|   orange    |    ERROR     | 
+|    Input    |           Output           |
+| ----------- | -------------------------- |
+|   yellow    |           red              | 
+|   green     |           yellow           | 
+|   orange    |    Orange is undefined     | 
 
 <table>
   <tr>
