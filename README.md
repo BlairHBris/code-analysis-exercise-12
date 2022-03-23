@@ -25,7 +25,7 @@ function (currentColor){
 | ----------- | -------------------------- |
 |   yellow    |           red              | 
 |   green     |           yellow           | 
-|   orange    |    Orange is undefined     | 
+|   orange    |          undefined         | 
 
 <table>
   <tr>
